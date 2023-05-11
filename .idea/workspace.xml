@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4aa649dc-c82b-4007-99fb-fac78c06e0be" name="Changes" comment="delete the unnecessary class">
-      <change afterPath="$PROJECT_DIR$/src/testing_document.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testing_document.docx" afterDir="false" />
+    <list default="true" id="4aa649dc-c82b-4007-99fb-fac78c06e0be" name="Changes" comment="documents">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exe2- HW Hadasim.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HW_Hadasim.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JdbcAccessTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exe2_Covid19Managment/JdbcAccessTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Members.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exe2_Covid19Managment/Members.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +47,21 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="JdbcAccessTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JdbcAccessTest" />
-      <module name="Exe2- HW Hadasim" />
+      <option name="MAIN_CLASS_NAME" value="exe2_Covid19Managment.JdbcAccessTest" />
+      <module name="HW_Hadasim" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="HW_Hadasim" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="HW_Hadasim" />
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -79,7 +95,14 @@
       <option name="project" value="LOCAL‎" />
       <updated>1683819640838</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL‎-00003" summary="documents">
+      <created>1683828642190</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL‎-00003" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1683828642190</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,7 +119,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="The whole project" />
     <MESSAGE value="delete the unnecessary class" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete the unnecessary class" />
+    <MESSAGE value="documents" />
+    <option name="LAST_COMMIT_MESSAGE" value="documents" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

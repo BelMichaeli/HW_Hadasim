@@ -1,3 +1,5 @@
+package exe2_Covid19Managment;
+
 import java.sql.Date;
 
 public class Members {

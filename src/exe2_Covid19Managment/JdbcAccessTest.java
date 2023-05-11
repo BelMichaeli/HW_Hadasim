@@ -1,3 +1,5 @@
+package exe2_Covid19Managment;
+
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
