@@ -16,6 +16,7 @@ In the first exercise it was necessary to establish a database-based system, a s
 I implemented the most basic system, which retrieves and enters data into the database.
 I only referred to the members table.
 For the other tables you can perform the same function, you just need to change the parameters and the query to retrieve the desired data.
+* I attached the database file (Covid.19_DB.accdb) to the project on GitHub, you can download it and the code will run well.
 
 ### Part 2:
 In the second part of the exercise it was necessary to create an RR document and also a test document for the presented characterization.
